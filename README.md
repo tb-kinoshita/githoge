@@ -1,9 +1,9 @@
 # Pictgram（ピクトグラム）※随時更新
 写真共有アプリです。  
-* 公開ページ（https://lit-plateau-66776.herokuapp.com/ ）  
+* 公開ページ（https://hogehoge.herokuapp.com/ ）  
 * テストアカウント  
-  * アドレス（sample@sample.com）  
-  * パスワード（sample1234）  
+  * アドレス（sample@hoge.com）  
+  * パスワード（hoge1234）  
 
 ## ◆アプリの概要
 そういえば全然連絡とっていない友人は元気かな。  
