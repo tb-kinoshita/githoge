@@ -3,7 +3,8 @@
 * 公開ページ（https://hogehoge.herokuapp.com/ ）  
 * テストアカウント  
   * アドレス（sample@hoge.com）  
-  * パスワード（hoge1234）  
+  * パスワード（hoge1234）
+* ドキュメント（https://drive.google.com/drive/hogehoge/repository)
 
 ## ◆アプリの概要
 そういえば全然連絡とっていない友人は元気かな。  
